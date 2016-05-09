@@ -175,6 +175,13 @@ p.footer {
   font-weight: bolder;
 }
 
+#game-title {
+  color: #ff6666;
+  font-family: 'Droid Sans Mono', "Trebuchet MS", sans-serif;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
 .floatP {
   float: left;
   width: 35%;
