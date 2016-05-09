@@ -1,0 +1,62 @@
+#board-container {
+  margin: 0 auto;
+  position: relative;
+}
+
+#board {
+  background-color: white;
+  width: 595px;
+  height: 595px;
+  margin-left: 230px;
+}
+
+.tiles {
+  width: 70px;
+  height: 70px;
+  float: left;
+  text-align: center;
+  margin: 2px;
+  border-radius: 10px;
+}
+
+.specialTile {
+  width: 70px;
+  height: 70px;
+  float: left;
+  text-align: center;
+  margin: 2px;
+  border-radius: 10px;
+}
+
+#timer {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Lato', "Trebuchet MS", sans-serif;
+  color: #414141;
+}
+
+#timeRemain {
+  font-size: 24px;
+  font-weight: bold;
+  width: 40px;
+  color: #00b9b3;
+}
+
+p {
+  font-family: 'Lato', "Trebuchet MS", sans-serif;
+  font-size: 20px;
+}
+
+#startGame {
+  border:none;
+  background-color:#00b9b3;
+  border-radius:5px;
+  padding: 15px;
+}
+
+#gameLink {
+  text-decoration: none;
+  font-family: 'Lato', "Trebuchet MS", sans-serif;
+  font-size: 16px;
+  color: white;
+}
