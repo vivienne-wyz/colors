@@ -1,0 +1,61 @@
+body {
+  width: 60%;
+  position: relative;
+  margin: 0 auto;
+  color: #37474f;
+  font-size: 18px;
+  font-family: 'Lato', san-serif; 
+  margin-top: 40px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 32px;
+}
+
+h4 {
+  font-size: 24px;
+}
+
+h1, h2, h3, h4 {
+  background-color: yellow;
+  display: inline;
+}
+
+#problemPic {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+#notice {
+  font-size: 24px;
+  color: #ff0066;
+}
+
+.quote{
+  font-size: 30px;
+  font-family: Georgia;
+  font-style: italic;
+}
+
+.buttons {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.buttons a {
+  font-family: 'Lato', san-serif; 
+  text-decoration: none;
+  font-size: 28px;
+  color: black;
+  padding: 20px;
+}
+
+.buttons a:hover {
+  text-decoration: underline;
+}
