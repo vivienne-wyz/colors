@@ -4,7 +4,7 @@ body {
   margin: 0 auto;
   color: #37474f;
   font-size: 18px;
-  font-family: 'Lato', san-serif; 
+  font-family: 'Lato', san-serif;
   margin-top: 40px;
 }
 
@@ -49,7 +49,7 @@ h1, h2, h3, h4 {
 }
 
 .buttons a {
-  font-family: 'Lato', san-serif; 
+  font-family: 'Lato', san-serif;
   text-decoration: none;
   font-size: 28px;
   color: black;
@@ -58,4 +58,16 @@ h1, h2, h3, h4 {
 
 .buttons a:hover {
   text-decoration: underline;
+}
+
+#back-button {
+  padding: 5px 10px;
+  position: fixed;
+  right: 15%;
+  background-color: #00b9b3;
+  text-decoration: none;
+  font-family: 'Lato', "Trebuchet MS", sans-serif;
+  font-size: 16px;
+  color: white;
+  border-radius: 5px;
 }
